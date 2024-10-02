@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nailya! </h1>
-<h3 align="center">A passionate Computer Science student in the US from Kyrgyzstan</h3>
+<h3 align="center">I'm from Kyrgyzstan! I'm currently studying Computer Science and Economics in the US!</h3>
 
 - 🌱 I’m currently learning **BackEnd Development and Frameworks**
 
