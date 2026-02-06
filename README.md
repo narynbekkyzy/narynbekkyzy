@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nailya! </h1>
+<h1 align="center">Hi, I'm Nailia! </h1>
 <h3 align="center">I'm currently studying Computer Science and Economics in the US.</h3>
 
 - 🌱 I’m currently learning **BackEnd Development and Frameworks**
