@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm Nailia! </h1>
-<h3 align="center">I'm currently studying Computer Science and Economics in the US.</h3>
+<h3 align="center">I'm currently studying Computer Science and Economics at Kalamazoo College </h3>
 
-- 🌱 I’m currently learning **BackEnd Development and Frameworks**
-
-- 📫 How to reach me **narynbekova16@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
